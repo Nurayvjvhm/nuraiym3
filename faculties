@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Faculties</title>
+</head>
+<body>
+    <header>
+        <p>There are 4 faculties, 3 institutes and 16 departments in AIU. The faculties are</p>
+    </header>
+    <main>
+        <h2>Our Faculties</h2>
+        <ul>
+            <li>Faculty of Engineering and Informatics</li>
+            <li>Faculty of Social Sciences</li>
+            <li>Faculty of Economics and Administrative Sciences</li>
+            <li>Faculty of Medicine</li>
+        </ul>
+    </main>
+    <footer>
+    </footer>
+</body>
+</html>

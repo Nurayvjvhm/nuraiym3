@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pictures</title>
+</head>
+<body>
+    <h1>University pictures</h1>
+    <img src="https://sputnik.kg/img/07e6/06/17/1065511056_0:257:3072:1985_1920x0_80_0_0_6693c48478b60158f73ec68fb858b367.jpg" alt=""width="200"height="300">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Building_B_of_IAAU.jpg" alt=""width="200"height="300"
+    <img src="https://data.kaktus.media/image/big/2020-07-16_09-34-29_208303.jpg" alt=""width="200"height="300"
+</body>
+</html>
